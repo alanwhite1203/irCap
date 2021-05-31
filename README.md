@@ -67,5 +67,9 @@ Index Type	LIBOR
 
 
 Reference:
-https://finpricing.com/knowledge.html
+
+https://finpricing.com/lib/EqBarrier.html
+
+https://bitbucket.org/cmrm11/ircap/downloads/IrCap-30.pdf
+
 
